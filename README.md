@@ -1,6 +1,7 @@
 # Tata-day-Plans
 
-Introduction
+## Introduction
+
 Subscription based businesses are super popular and promoter realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
 Promoter finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
